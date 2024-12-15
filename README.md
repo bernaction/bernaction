@@ -24,10 +24,4 @@
 
 ---
 ### Redes sociais:
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-bandeo-5762a51a6/)
-
-
----
-Sinta-se à vontade para explorar meus repositórios e acompanhar minha trajetória profissional. Se tiver interesse em colaborar ou trocar ideias, entre em contato!
-
-
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-vannier/)
