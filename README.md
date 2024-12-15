@@ -2,6 +2,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=bernaction&show_icons=true&theme=ocean_dark&line_height=49&cache_seconds=60" alt="Berna GitHub stats" style="border: none;height: auto; width: 57%;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernaction&show_icons=true&theme=ocean_dark&card_width=100&cache_seconds=60" alt="Top Langs" style="border: none; height: auto; width: 41%;">
 </div>
+
 ---
 ### 🛠️ linguagens de programação:
 
