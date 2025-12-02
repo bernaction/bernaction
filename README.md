@@ -1,7 +1,7 @@
 # 👋 Olá! Me chamo Bernardo Vannier
 
 Engenheiro de Computação formado pela **UNIVALI**.<br>
-Entusiasta por **Hardware**, **FPGA**, **Criptomoedas** e tecnologias de baixo nível.<br>
+Entusiasta por **Hardware & Software**, **FPGA**, **Criptomoedas** e tecnologias de baixo nível.<br>
 Criador de conteúdo no **YouTube** sobre mineração de criptomoedas.
 
 ---
