@@ -65,7 +65,6 @@ Criador de conteúdo no **YouTube** sobre mineração de criptomoedas.
 - **Microcontroladores**: ARM, AVR
 - **Linguagens**: C, C++, Assembly
 - **Aplicações**: IoT, automação, protótipos
-
 - **Stacks**: ESP-IDF, FreeRTOS em ESP32
 
 
