@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Bernardo Vannier
+# 👋 Olá! Me chamo Bernardo Vannier
 
 Engenheiro de Computação formado pela **UNIVALI**.<br>
 Entusiasta por **Hardware**, **FPGA**, **Criptomoedas** e tecnologias de baixo nível.<br>
