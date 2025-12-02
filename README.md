@@ -4,10 +4,11 @@ Engenheiro de Computação formado pela **UNIVALI** (2025/2). Apaixonado por **H
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bernaction&show_icons=true&theme=ocean_dark&hide_border=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernaction&layout=compact&theme=ocean_dark&hide_border=true" alt="Top Languages" height="165">
-</p>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bernaction&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bernaction&theme=tokyonight&hide_border=true" />
+  <img width="98%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernaction&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
 
 ---
 
