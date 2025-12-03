@@ -37,11 +37,12 @@ Criador de conteúdo no **YouTube** sobre mineração de criptomoedas.
 ### ⚡ Hardware e Design Digital
 ![VHDL](https://img.shields.io/badge/VHDL-543978?style=for-the-badge&logoColor=white)
 ![FPGA](https://img.shields.io/badge/FPGA-0066CC?style=for-the-badge&logoColor=white)
+![Xilinx](https://img.shields.io/badge/Xilinx-E01F27?style=for-the-badge&logo=xilinx&logoColor=white)
+![Vivado](https://img.shields.io/badge/Vivado-E01F27?style=for-the-badge&logoColor=white)
 ![Intel FPGA](https://img.shields.io/badge/Intel_FPGA-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![Quartus Prime](https://img.shields.io/badge/Quartus_Prime-0071C5?style=for-the-badge&logoColor=white)
 ![Platform Designer](https://img.shields.io/badge/Platform_Designer-0071C5?style=for-the-badge&logoColor=white)
-![Xilinx](https://img.shields.io/badge/Xilinx-E01F27?style=for-the-badge&logo=xilinx&logoColor=white)
-![Vivado](https://img.shields.io/badge/Vivado-E01F27?style=for-the-badge&logoColor=white)
+
 
 - **Design**: VHDL, High-Level Synthesis (HLS)
 - **Ferramentas**: Vivado Design Suite, Vivado HLS
