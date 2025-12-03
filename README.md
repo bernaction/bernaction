@@ -53,9 +53,10 @@ Criador de conteúdo no **YouTube** sobre mineração de criptomoedas.
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Monero](https://img.shields.io/badge/Monero-FF6600?style=for-the-badge&logo=monero&logoColor=white)
 ![Kaspa](https://img.shields.io/badge/Kaspa-49C9E7?style=for-the-badge&logoColor=white)
-![Ergo](https://img.shields.io/badge/Ergo-FF5733?style=for-the-badge&logoColor=white)
 ![Xelis](https://img.shields.io/badge/Xelis-7B68EE?style=for-the-badge&logoColor=white)
 ![Dero](https://img.shields.io/badge/Dero-00D4AA?style=for-the-badge&logoColor=white)
+![Ergo](https://img.shields.io/badge/Ergo-FF5733?style=for-the-badge&logoColor=white)
+
 
 - **Algoritmos**: SHA-256, Ethash, RandomX, AstroBWT/v3, kHeavyHash
 - **Mineração**: ASICs, GPUs, configuração de Rigs
