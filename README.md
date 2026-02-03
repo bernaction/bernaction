@@ -12,7 +12,7 @@ Criador de conteúdo no **YouTube** sobre mineração de criptomoedas.
 
 
 ### 📄 Publicação Acadêmica
--[![IEEE](https://img.shields.io/badge/IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/11297699)
+[![IEEE](https://img.shields.io/badge/IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/11297699)
 - **Título**: *Implementation of Double SHA-256 in HLS for FPGA Using Real Bitcoin Blocks* 
 - **Evento**: 17th Seminar on Power Electronics and Control - SEPOC 2025 ([sepoc.com.br](https://sepoc.com.br/))
 - **Tema**: Implementação de SHA-256 em FPGA utilizando técnicas de High-Level Synthesis (HLS) aplicado a blocos reais do Bitcoin
