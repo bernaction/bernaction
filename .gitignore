@@ -1,2 +1,19 @@
 lattes.md
 *\context
+*\cv
+*.vscode
+*.venv
+
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.xdv
+*.bcf
+*.run.xml
